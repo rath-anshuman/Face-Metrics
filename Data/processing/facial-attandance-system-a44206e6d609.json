@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "facial-attandance-system",
+  "private_key_id": "a44206e6d609315c6921ce2d077862ccf0409be0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDMTT99xn/hrXmr\nwURVVqYR50x1gByJsYzjUSNm2MAZdNY5ywD/s2VYdq8WX67B5/2Dy67HwAfny6Je\nk1U9zhCVpQx7wkUJpmiJwLuPg3zrIZVOIG5BTqeNrdUBrNpISBhqPXl9BfxsBV+H\nbE0Z3UrFL7AH+daZ8uWKXJ/jaL8TMhwNgjimOPFBxpGNUwk4YWjIwaEeVq7BsQdk\nGv6VKc6F1WrwJTeswEmMC3UxK2ErI4PUW4Xq7W3qFzJgcj0Dz0qIu4SN+lCw1iEI\nlcFKwxl75HdAG2IXuqiRb5LQx+3A4XWpUnrPtQovUwDcCOTNGVxH1VKzbyTFX536\nCVKcDL6BAgMBAAECggEAI24kHCZgCB3DE3+9X4Va4JD5yAjTKifx9HweRRhC3EdQ\nXY5wmmecpEZU3+7xCiy24PPiWD7bwB2nB3rKliDV7HXGn/HVcjJ7P6R+gol9kPNu\nhrGGHWpMEXx7i8JTyqRCI66MkpuGpp8Z7YzhJCKl9GNsRj3UMzeWCjQ9AD2qoWPI\ndXeVxWOf/d3bUjRlr13TJn/WxbQB1+pY0+IqdJ6CZgIQTCOgughYd/4U+ShY62Hq\nwH/3XQTJzBsOGpR7ICZD5Kbrr3KRhRmOVurxZ00FCko+Gy4QpV5PiwsblgT90344\njCQ7qyKpPiGtP0vgfFuMc32KuF4gI+oc+qFYpn6bSQKBgQDprU330DPnZtcjy6bm\n4yJw/sA4GJuUbv1CkudfiWn00ghjdJz8gWE5nYlbZ++a0YgI6NmBHWfCVMZEhqap\nU+PiI6Msb5/VtsWVfAlfb7Y3BOT1ylbumLNdd1YmwKOQ9RFxj/9kvA/Rsa2b6+O7\nrrBPKPvrnQFUOVwDZc63T3TfXQKBgQDf0Y6DmUBexaRW+MjSQM4QgJC0KZsVXpRa\nax8jmFML3RPZm3NmL+5ONwvtf3WMRBPqIrXFfMIBeIiMVCgXQo4lGvupxatmUXfu\n2/lWGo8w+kNrOBHH8PrcqETyiqOEAuUKolKEIiqIlKUr+YYTi+Z1qouNzxYx5WVl\nP0swgPe9dQKBgB+XSl8iSqISCSvRsHKuak2UYzAyQ3ZBuwNxEM6dqTFr465uaXrJ\nkvdTEOrGlmH7ycRKln0aGJjxFQzWl1l0+e3sm3a6cIVX/EZFSo8Yby3o/3srK619\n/2G3bHI4wOQr/Xu41/IqaokS2EGoFlWdPEC3bbdgtnlId+QNs3Cc0VQRAoGAUWBL\nxKUvtkV93vFNcsSFJ5LXCeomrLpajhVsmPCFIUccNH5Ekt7ScjWpbIxvHLST2QkN\nteQKVaaRXxQqD2rva6ZH4g4wp17vkDUCjr/RWCll4dHdBSkkzJ2Rk+28Tf8Pb7Jc\n9hXGCSqicz6h9PFktVtwqfqlQzb4irtchyIc8RECgYEAs+hdo9YYf3n+tN4IM/k8\nd72xjHxa/Fv9v3myItCqmoHdjll/tSTvwH+WiEtLMLZKUWgWzhTKpIf8WC98sV7k\nONgmRkGukX2Z+VT+CWpncWpzochTQncJ4P6u6IwbvuozsUbI7C+/ABo5AcZKvQhu\n0cXlwnidbZUW6JGeWDROe94=\n-----END PRIVATE KEY-----\n",
+  "client_email": "attandance-domain@facial-attandance-system.iam.gserviceaccount.com",
+  "client_id": "114336255890155993463",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/attandance-domain%40facial-attandance-system.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
